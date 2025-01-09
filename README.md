@@ -1,8 +1,9 @@
 
-# Movie Recommendation System 🎥
+   # Movie Recommendation System 🎥
 
+![Ttle Page](https://github.com/MohammadAnas5/Movies-Recommandation-System/blob/main/images/movies.jpg)
 This is a **Movie Recommendation System** built using **Collaborative Filtering**. The system leverages a similarity matrix to recommend movies based on the preferences of users who liked similar movies.
-![Home Page](https://github.com/MohammadAnas5/emotionapp/blob/main/images/Emotion%20Detection%20(1).png)
+
 ## Features 🚀
 
 - **Movie Recommendations**: Suggests 5 movies based on the selected movie title.
@@ -36,10 +37,13 @@ This is a **Movie Recommendation System** built using **Collaborative Filtering*
 ## 🎨 UI Screenshots
 
  ### Home Page
-![Home Page](https://github.com/MohammadAnas5/emotionapp/blob/main/images/Emotion%20Detection%20(1).png)
+![Home Page](https://github.com/MohammadAnas5/Movies-Recommandation-System/blob/main/images/app.png)
+
+![Home Page](https://github.com/MohammadAnas5/Movies-Recommandation-System/blob/main/images/app%20(1).png)
+
 
  ### Prediction Result
-![Prediction Result](https://github.com/MohammadAnas5/emotionapp/blob/main/images/Emotion%20Detection.png)
+![Prediction Result](https://github.com/MohammadAnas5/Movies-Recommandation-System/blob/main/images/app%20(2).png)
 
 ## Setup Instructions 🖥️
 
@@ -82,7 +86,7 @@ To fetch movie posters, you need to get your TMDB API key:
 
 ## Limitations ⚠️
 
-- The trained similarity model (`similarity.pkl`) is not uploaded to GitHub due to file size limitations. You will need to generate the similarity matrix locally using your movie dataset.
+- The trained similarity model (`similarity.pkl`) is not uploaded to GitHub due to file size limitations. If you want that, message me.
 
 ## Future Improvements 🌟
 
@@ -94,4 +98,4 @@ To fetch movie posters, you need to get your TMDB API key:
 ---
 
 Feel free to contribute to this project and share your feedback! 😊
-```  
+
